@@ -1,4 +1,4 @@
-= grok_aoi_chan_novel
+= ai_aoi_chan_novel
 :author: Fatal Error
 :toc: left
 :toc-title: 目次
